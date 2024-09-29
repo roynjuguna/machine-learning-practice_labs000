@@ -6,7 +6,7 @@ This repository contains all of the courses in the Machine Learning Specializati
 
 Each course has its own dedicated folder with a number of Jupyter notebooks that demonstrate the concepts covered in the course.
 
-## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+## Course 1 : [Supervised Machine Learning_Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
 - ### Week 1
   - [Python and Jupyter Notebooks](https://github.com/sohansai/machine-learning-andrew-ng/blob/main/Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
